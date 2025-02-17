@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://castiblancocastane0.wixsite.com/alysoncastiblanco/mi-trabajo](https://castiblancocastane0.wixsite.com/alysoncastiblanco/mi-trabajo)
 
+- 📝 Watch my thesis project in Python here [https://repositorio.ecci.edu.co/handle/001/2965](https://repositorio.ecci.edu.co/handle/001/2965)
+
 - 💬 Ask me about **HTML, CSS, Python, Java, C/C++, Arduino, React, NodeJS, Bootstrap.**
 
 - 📫 How to reach me **castiblanco.castaneda.alyson.val@gmail.com**
