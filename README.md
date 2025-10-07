@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alysoncastiblanco&label=Profile%20views&color=0e75b6&style=flat" alt="alysoncastiblanco" /> </p>
 
-- 🔭 I’m currently working on [Neureka GS, by Genuine School](https://github.com/ALYSONCASTIBLANCO/NeurekaV1)
+- 🔭 I’m currently working on [Neureka GS, by Genuine School](https://github.com/ALYSONCASTIBLANCO/NeurekaV2)
 
 - 🌱 I’m currently learning **Advanced JavaScript, Tailwind, SCRUM, Design Thinking, Design Patterns.**
 
